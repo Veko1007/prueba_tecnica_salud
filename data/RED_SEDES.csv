@@ -1,0 +1,83 @@
+id_sede,nom_sede,tip_sede,cap_camas_gen,cap_camas_uci,nivel_complejidad
+1,Sede_1,Centro Medico,17,14,Alta
+2,Sede_2,Diagnostico,56,14,Alta
+3,Sede_3,Hospital,44,9,Media
+4,Sede_4,Centro Medico,87,12,Alta
+5,Sede_5,Centro Medico,90,18,Alta
+6,Sede_6,Diagnostico,45,6,Alta
+7,Sede_7,Hospital,59,16,Alta
+8,Sede_8,Hospital,13,19,Baja
+9,Sede_9,Centro Medico,11,3,Baja
+10,Sede_10,Clinica,15,4,Alta
+11,Sede_11,Centro Medico,63,6,Media
+12,Sede_12,Centro Medico,13,12,Baja
+13,Sede_13,Centro Medico,63,14,Alta
+14,Sede_14,Centro Medico,72,10,Baja
+15,Sede_15,Diagnostico,27,3,Baja
+16,Sede_16,Hospital,99,12,Media
+17,Sede_17,Diagnostico,53,6,Alta
+18,Sede_18,Diagnostico,43,18,Alta
+19,Sede_19,Diagnostico,83,1,Media
+20,Sede_20,Centro Medico,71,9,Media
+21,Sede_21,Clinica,23,12,Alta
+22,Sede_22,Hospital,57,5,Alta
+23,Sede_23,Clinica,24,11,Media
+24,Sede_24,Diagnostico,81,11,Baja
+25,Sede_25,Diagnostico,87,19,Baja
+26,Sede_26,Clinica,96,10,Media
+27,Sede_27,Clinica,71,6,Baja
+28,Sede_28,Clinica,49,0,Media
+29,Sede_29,Diagnostico,94,0,Baja
+30,Sede_30,Diagnostico,89,19,Baja
+31,Sede_31,Hospital,91,12,Alta
+32,Sede_32,Hospital,62,8,Alta
+33,Sede_33,Diagnostico,33,2,Baja
+34,Sede_34,Clinica,35,6,Baja
+35,Sede_35,Clinica,98,5,Alta
+36,Sede_36,Hospital,69,7,Alta
+37,Sede_37,Diagnostico,50,8,Alta
+38,Sede_38,Hospital,38,4,Media
+39,Sede_39,Hospital,24,0,Baja
+40,Sede_40,Centro Medico,54,18,Alta
+41,Sede_41,Centro Medico,74,9,Baja
+42,Sede_42,Centro Medico,98,11,Media
+43,Sede_43,Clinica,80,14,Media
+44,Sede_44,Diagnostico,18,8,Alta
+45,Sede_45,Diagnostico,97,19,Media
+46,Sede_46,Diagnostico,10,16,Baja
+47,Sede_47,Diagnostico,17,16,Alta
+48,Sede_48,Centro Medico,97,19,Baja
+49,Sede_49,Clinica,72,11,Baja
+50,Sede_50,Clinica,20,6,Media
+51,Sede_51,Centro Medico,90,1,Media
+52,Sede_52,Clinica,17,2,Media
+53,Sede_53,Centro Medico,44,16,Media
+54,Sede_54,Diagnostico,44,4,Media
+55,Sede_55,Centro Medico,42,16,Alta
+56,Sede_56,Diagnostico,14,16,Baja
+57,Sede_57,Diagnostico,50,16,Baja
+58,Sede_58,Hospital,37,1,Baja
+59,Sede_59,Centro Medico,16,1,Baja
+60,Sede_60,Hospital,82,4,Media
+61,Sede_61,Centro Medico,81,0,Baja
+62,Sede_62,Centro Medico,21,0,Alta
+63,Sede_63,Hospital,43,18,Alta
+64,Sede_64,Hospital,42,1,Baja
+65,Sede_65,Centro Medico,57,11,Baja
+66,Sede_66,Clinica,32,5,Alta
+67,Sede_67,Diagnostico,71,3,Alta
+68,Sede_68,Hospital,97,10,Media
+69,Sede_69,Diagnostico,46,16,Alta
+70,Sede_70,Clinica,53,5,Media
+71,Sede_71,Clinica,95,4,Media
+72,Sede_72,Clinica,44,19,Media
+73,Sede_73,Hospital,74,1,Media
+74,Sede_74,Clinica,56,5,Media
+75,Sede_75,Hospital,87,10,Baja
+76,Sede_76,Clinica,12,15,Alta
+77,Sede_77,Diagnostico,10,15,Media
+78,Sede_78,Diagnostico,14,0,Alta
+79,Sede_79,Centro Medico,99,8,Alta
+80,Sede_80,Diagnostico,23,5,Media
+81,Sede_81,Centro Medico,36,15,Baja
+82,Sede_82,Diagnostico,18,2,Media
